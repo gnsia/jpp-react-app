@@ -1,0 +1,15 @@
+button {
+  border: "1px solid black";
+  border-radius: 15px;
+  margin: 5px;    
+}
+
+img {
+  max-height: 90%;
+  max-width: 90%;
+}
+
+.selected {
+  background-color: skyblue;
+  color: white;
+}
